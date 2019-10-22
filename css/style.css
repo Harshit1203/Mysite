@@ -1,0 +1,21 @@
+ body{
+       background-color: powderblue; 
+    }
+
+    hr{
+      
+        border-style: none;
+        border-top-style: dotted;
+        border-color: azure;
+        border-width: 7px;
+        height :0px;
+        width: 5%;
+    }
+
+    h1{
+        color:#14868c;
+    }
+
+    h2{
+        color :#14868c;
+    }
